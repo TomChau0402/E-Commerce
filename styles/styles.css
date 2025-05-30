@@ -21,7 +21,7 @@ body {
 
 .btn {
     display: inline-block;
-    background: #ff6b6b;
+    background:blueviolet;
     color: white;
     padding: 10px 20px;
     border: none;
@@ -146,7 +146,7 @@ body {
 .newsletter {
     padding: 60px 0;
     text-align: center;
-    background: #ff6b6b;
+    background: blueviolet;
     color: white;
 }
 
